@@ -1,0 +1,47 @@
+---Recomendações do vscode---
+
+  1- Pasta .vscode 
+    extensions.json
+
+  2- Dentro do arquivo:
+    {
+      "recommendations": [
+        "PKief.material-icon-theme",
+        "rocketseat.theme-omni",
+        "esbenp.prettier-vscode",
+      ]
+    }
+
+
+---Configurações do vscode---
+
+  1- Pasta .vscode
+    settings.json
+
+  2- Dentro do arquivo:
+    {
+      ...
+    }
+
+
+---Vite (empacotador)---
+
+  npm create vite@latest 
+
+  ? Project name: > meu-projeto
+
+  ? Select a framework: 
+  > Vanilla (JS puro)
+
+  Select a variant: 
+  > JavaScript
+
+
+---Instalando npm---
+
+  npm install
+
+
+---Criando servidor---
+
+  npm run dev
