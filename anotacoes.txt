@@ -54,6 +54,3 @@
   import IMask from "imask"
 
   Guia: https://imask.js.org/guide.html
-
-
-

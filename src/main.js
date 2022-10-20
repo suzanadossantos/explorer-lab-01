@@ -90,7 +90,7 @@ const cardNumberMasked = IMask(cardNumber, cardNumberPattern)
 
 const addButton = document.querySelector("#add-card")
 addButton.addEventListener("click", () => {
-  alert("Cartão adicionado!")
+  alert(`Seu cartão foi adicionado!`)
 })
 
 document.querySelector("form").addEventListener("submit", (event) => {
