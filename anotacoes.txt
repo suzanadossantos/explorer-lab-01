@@ -45,3 +45,15 @@
 ---Criando servidor---
 
   npm run dev
+
+
+---IMask---
+
+  npm install IMask
+
+  import IMask from "imask"
+
+  Guia: https://imask.js.org/guide.html
+
+
+
